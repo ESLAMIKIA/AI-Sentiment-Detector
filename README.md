@@ -2,8 +2,6 @@
 
 A simple, lightweight AI-powered sentiment analysis application built with **Python** and **Tkinter**. Analyze text and instantly discover whether its emotional tone is positive, negative, or neutral.
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GUI-Tkinter-orange](https://img.shields.io/badge/GUI-Tkinter-orange)" />   \<img src="[https://img.shields.io/badge/NLP-TextBlob-green](https://img.shields.io/badge/NLP-TextBlob-green)" />   \<img src="[https://img.shields.io/badge/Status-Completed-success](https://img.shields.io/badge/Status-Completed-success)" />   \<img src="[https://img.shields.io/badge/License-MIT-yellow](https://img.shields.io/badge/License-MIT-yellow)" /> \</p>
-
 ---
 
 ## ✨ Features
@@ -23,12 +21,12 @@ The application provides a simple interface where users can enter text, analyze 
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose                     |
-| ---------- | --------------------------- |
-| Python     | Main programming language   |
-| Tkinter    | Graphical User Interface    |
-| TextBlob   | Sentiment Analysis          |
-| NLP        | Natural Language Processing |
+| Technology | Purpose |
+|---|---|
+| Python | Main programming language |
+| Tkinter | Graphical User Interface |
+| TextBlob | Sentiment Analysis |
+| NLP | Natural Language Processing |
 
 ## 📦 Installation
 
@@ -65,11 +63,11 @@ python sentiment_detector.py
 
 ### Sentiment Categories
 
-| Polarity Score       | Result      |
-| -------------------- | ----------- |
-| Greater than 0.1     | 😊 Positive |
-| Between -0.1 and 0.1 | 😐 Neutral  |
-| Less than -0.1       | 😠 Negative |
+| Polarity Score | Result |
+|---|---|
+| Greater than 0.1 | 😊 Positive |
+| Between -0.1 and 0.1 | 😐 Neutral |
+| Less than -0.1 | 😠 Negative |
 
 ## 📁 Project Structure
 
@@ -100,6 +98,6 @@ This project is licensed under the MIT License.
 
 ---
 
-\<p align="center">
-&#x20; Made with ❤️ and Python
-\</p>
+<p align="center">
+  Made with ❤️ and Python
+</p>
